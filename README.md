@@ -1,4 +1,4 @@
 # PhysicsQuiz
 Quiz fizyczny wykonany w Android Studio
-Mateusz Wojteczek
-310224
+/nMateusz Wojteczek
+/n310224
