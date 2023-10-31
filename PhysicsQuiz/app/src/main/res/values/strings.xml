@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Quiz o fizyce</string>
+    <string name="question_text">question_text</string>
+    <string name="title_activity_summary">Podsumowanie</string>
+</resources>
